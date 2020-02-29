@@ -1,6 +1,6 @@
-# Display LaTeX in the terminal
+# Display LaTeX in terminal
 
-Generate an image from a LaTeX code and displays it in the terminal.
+Generate an image from a LaTeX code and display it in the terminal.
 
 ## Example
 
